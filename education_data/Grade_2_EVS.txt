@@ -1,0 +1,19 @@
+GRADE: 2
+SUBJECT: EVS
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Water
+EXPLANATION: We use water for drinking, cooking and cleaning. Avoid wasting water.
+QUESTION: Name two uses of water.
+ANSWER: Drinking and cooking.
+
+LESSON 2: Shelter
+EXPLANATION: Houses provide shelter from weather. Different climates may need different houses.
+QUESTION: Why do we need houses?
+ANSWER: For shelter.
+
+LESSON 3: Helpers
+EXPLANATION: Farmers grow food, teachers help us learn and doctors care for sick people.
+QUESTION: Who grows food?
+ANSWER: Farmers.

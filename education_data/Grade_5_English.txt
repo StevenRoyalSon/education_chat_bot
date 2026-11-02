@@ -1,0 +1,19 @@
+GRADE: 5
+SUBJECT: English
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Voice
+EXPLANATION: In active voice the subject performs an action. In passive voice it receives the action.
+QUESTION: Who performs the action in active voice?
+ANSWER: The subject.
+
+LESSON 2: Reported Speech
+EXPLANATION: Direct speech gives exact spoken words. Indirect speech reports their meaning.
+QUESTION: What is direct speech?
+ANSWER: Exact spoken words.
+
+LESSON 3: Summary
+EXPLANATION: A summary gives the main ideas of a text in fewer words without adding unsupported details.
+QUESTION: What belongs in a summary?
+ANSWER: Main ideas.

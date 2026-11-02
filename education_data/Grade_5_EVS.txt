@@ -1,0 +1,19 @@
+GRADE: 5
+SUBJECT: EVS
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Solar System
+EXPLANATION: The Sun is a star. Earth is a planet orbiting the Sun. The Moon is Earths natural satellite.
+QUESTION: Is the Sun a star?
+ANSWER: Yes.
+
+LESSON 2: Food Chain
+EXPLANATION: Grass can be eaten by a grasshopper, which can be eaten by a frog.
+QUESTION: What is the producer?
+ANSWER: Grass.
+
+LESSON 3: Resources
+EXPLANATION: Water, air, soil and forests are natural resources. Conserving them helps ecosystems.
+QUESTION: Name two natural resources.
+ANSWER: Water and soil.

@@ -1,0 +1,19 @@
+GRADE: 4
+SUBJECT: EVS
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Water Cycle
+EXPLANATION: Water evaporates when heated, condenses into clouds and returns as precipitation.
+QUESTION: What is evaporation?
+ANSWER: Liquid water changing to water vapour.
+
+LESSON 2: Adaptation
+EXPLANATION: Animals have features suited to habitats. Fish use gills to obtain oxygen from water.
+QUESTION: Why do fish have gills?
+ANSWER: To obtain oxygen from water.
+
+LESSON 3: Waste
+EXPLANATION: Reduce means use less. Reuse means use again. Recycle means process material for another use.
+QUESTION: What does reuse mean?
+ANSWER: Use again.

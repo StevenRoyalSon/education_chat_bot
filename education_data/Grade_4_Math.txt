@@ -1,0 +1,19 @@
+GRADE: 4
+SUBJECT: Math
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Factors
+EXPLANATION: A factor divides a number without remainder. Three is a factor of twelve.
+QUESTION: Is 3 a factor of 12?
+ANSWER: Yes.
+
+LESSON 2: Equivalent Fractions
+EXPLANATION: One half and two quarters are equivalent fractions.
+QUESTION: Is 1/2 equal to 2/4?
+ANSWER: Yes.
+
+LESSON 3: Area
+EXPLANATION: Area measures space inside a flat shape. A 6 cm by 4 cm rectangle has area 24 square centimetres.
+QUESTION: What is the area of a 6 by 4 rectangle?
+ANSWER: 24 square centimetres.

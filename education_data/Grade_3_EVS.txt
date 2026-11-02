@@ -1,0 +1,19 @@
+GRADE: 3
+SUBJECT: EVS
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Plant Parts
+EXPLANATION: Roots anchor a plant and absorb water. Stems support leaves. Leaves use sunlight to make food.
+QUESTION: What do roots do?
+ANSWER: Anchor plants and absorb water.
+
+LESSON 2: Food
+EXPLANATION: Different foods supply energy and nutrients. Eat a variety of fruits, vegetables, grains and protein sources.
+QUESTION: Why eat varied food?
+ANSWER: To get a variety of nutrients.
+
+LESSON 3: Environment
+EXPLANATION: Living and nonliving things make up our environment. Air and water are nonliving things.
+QUESTION: Name two nonliving things.
+ANSWER: Air and water.

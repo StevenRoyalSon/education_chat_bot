@@ -1,0 +1,19 @@
+GRADE: 2
+SUBJECT: English
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Pronouns
+EXPLANATION: Pronouns replace nouns. He, she, it, we and they are pronouns.
+QUESTION: Name one pronoun.
+ANSWER: She.
+
+LESSON 2: Adjectives
+EXPLANATION: An adjective describes a noun. Red describes the ball in red ball.
+QUESTION: What is the adjective in red ball?
+ANSWER: Red.
+
+LESSON 3: Past Tense
+EXPLANATION: Past tense describes something that happened earlier. Walk becomes walked.
+QUESTION: What is the past tense of walk?
+ANSWER: Walked.

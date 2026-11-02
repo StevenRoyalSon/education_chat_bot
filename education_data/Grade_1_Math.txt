@@ -1,0 +1,19 @@
+GRADE: 1
+SUBJECT: Math
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Counting
+EXPLANATION: Counting tells how many objects are in a group. Four apples means a group of four.
+QUESTION: How many apples are in a group of four?
+ANSWER: Four.
+
+LESSON 2: Addition
+EXPLANATION: Adding combines groups. Two pencils plus three pencils equals five pencils.
+QUESTION: What is 2 plus 3?
+ANSWER: 5.
+
+LESSON 3: Shapes
+EXPLANATION: A triangle has three sides. A square has four equal sides. A circle has no straight sides.
+QUESTION: How many sides does a triangle have?
+ANSWER: Three.

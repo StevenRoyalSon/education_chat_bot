@@ -1,0 +1,18 @@
+{
+  "app_name": "Education Chatbot",
+  "app_description": "Grade 1-5 Learning Assistant",
+  "openai": {
+    "model": "gpt-4o-mini",
+    "temperature": 0.7,
+    "max_tokens": 500
+  },
+  "rag": {
+    "chunk_size": 500,
+    "chunk_overlap": 50,
+    "top_k_results": 3
+  },
+  "documents": {
+    "folder": "education_data",
+    "file_types": [".txt", ".pdf"]
+  }
+}

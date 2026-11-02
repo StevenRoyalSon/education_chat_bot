@@ -1,0 +1,19 @@
+GRADE: 3
+SUBJECT: Math
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Fractions
+EXPLANATION: A fraction shows equal parts of a whole. One half means one of two equal parts.
+QUESTION: What does one half mean?
+ANSWER: One of two equal parts.
+
+LESSON 2: Division
+EXPLANATION: Division can share things equally. Twelve sweets shared by three children gives four each.
+QUESTION: What is 12 divided by 3?
+ANSWER: 4.
+
+LESSON 3: Perimeter
+EXPLANATION: Perimeter is distance around a shape. A 5 cm by 3 cm rectangle has perimeter 16 cm.
+QUESTION: What is the perimeter of a 5 by 3 rectangle?
+ANSWER: 16 cm.

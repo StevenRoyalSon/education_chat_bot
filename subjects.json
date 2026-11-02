@@ -1,0 +1,33 @@
+{
+  "grades": [
+    {
+      "grade": "Grade 1",
+      "subjects": ["Math", "English", "EVS"]
+    },
+    {
+      "grade": "Grade 2",
+      "subjects": ["Math", "English", "EVS"]
+    },
+    {
+      "grade": "Grade 3",
+      "subjects": ["Math", "English", "EVS"]
+    },
+    {
+      "grade": "Grade 4",
+      "subjects": ["Math", "English", "EVS"]
+    },
+    {
+      "grade": "Grade 5",
+      "subjects": ["Math", "English", "EVS"]
+    }
+  ],
+  "unrelated_question_response": "It's not my job to explain this. Please reach out to the administrator to provide your required information.",
+  "greeting_responses": {
+    "hi": "Hello! How can I help you with your studies today?",
+    "hello": "Hi there! What would you like to learn about?",
+    "good morning": "Good morning! Ready to learn something new?",
+    "good afternoon": "Good afternoon! How can I assist you?",
+    "good evening": "Good evening! What can I help you with today?",
+    "hey": "Hey! What would you like to learn?"
+  }
+}

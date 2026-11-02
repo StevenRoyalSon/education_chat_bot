@@ -1,0 +1,19 @@
+GRADE: 5
+SUBJECT: Math
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Decimals
+EXPLANATION: In 3.25, 3 is the whole number, 2 is tenths and 5 is hundredths.
+QUESTION: What place is 5 in 3.25?
+ANSWER: Hundredths.
+
+LESSON 2: Percent
+EXPLANATION: Percent means out of one hundred. 25 percent equals one quarter.
+QUESTION: What fraction equals 25 percent?
+ANSWER: One quarter.
+
+LESSON 3: Volume
+EXPLANATION: Volume measures three-dimensional space. A 2 by 3 by 4 cm box has volume 24 cubic centimetres.
+QUESTION: What is the volume of the box?
+ANSWER: 24 cubic centimetres.

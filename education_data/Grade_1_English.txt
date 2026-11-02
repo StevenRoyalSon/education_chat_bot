@@ -1,0 +1,19 @@
+GRADE: 1
+SUBJECT: English
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Nouns
+EXPLANATION: A noun names a person, place, animal, or thing. Teacher, school, cat and book are nouns.
+QUESTION: Is school a noun?
+ANSWER: Yes.
+
+LESSON 2: Verbs
+EXPLANATION: Verbs describe actions or states. Run, read and jump are action words.
+QUESTION: Give an action word.
+ANSWER: Run.
+
+LESSON 3: Sentences
+EXPLANATION: A sentence communicates a complete thought. It begins with a capital letter.
+QUESTION: How does a sentence begin?
+ANSWER: With a capital letter.

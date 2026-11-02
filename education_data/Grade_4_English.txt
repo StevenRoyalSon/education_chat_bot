@@ -1,0 +1,19 @@
+GRADE: 4
+SUBJECT: English
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Subject
+EXPLANATION: In The birds sing, The birds is the subject and sing is the predicate.
+QUESTION: What is the subject?
+ANSWER: The birds.
+
+LESSON 2: Antonyms
+EXPLANATION: Antonyms are words with opposite meanings, like hot and cold.
+QUESTION: What is the opposite of hot?
+ANSWER: Cold.
+
+LESSON 3: Comprehension
+EXPLANATION: Reading comprehension involves finding main ideas and details in a passage.
+QUESTION: What supports an answer?
+ANSWER: Details from the passage.

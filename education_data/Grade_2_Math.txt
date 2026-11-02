@@ -1,0 +1,19 @@
+GRADE: 2
+SUBJECT: Math
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Place Value
+EXPLANATION: In 42, the 4 represents four tens and the 2 represents two ones.
+QUESTION: What does 4 represent in 42?
+ANSWER: 40.
+
+LESSON 2: Multiplication
+EXPLANATION: Multiplication can count equal groups. Three groups of four equal twelve.
+QUESTION: What is 3 times 4?
+ANSWER: 12.
+
+LESSON 3: Length
+EXPLANATION: One metre is equal to one hundred centimetres.
+QUESTION: How many centimetres in a metre?
+ANSWER: 100.

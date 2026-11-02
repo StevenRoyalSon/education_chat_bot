@@ -1,0 +1,19 @@
+GRADE: 3
+SUBJECT: English
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Verbs
+EXPLANATION: A verb expresses an action or state. Jump, read and is are examples.
+QUESTION: What is a verb?
+ANSWER: A word expressing action or state.
+
+LESSON 2: Paragraphs
+EXPLANATION: A paragraph is a group of related sentences about one main idea.
+QUESTION: What is a paragraph about?
+ANSWER: One main idea.
+
+LESSON 3: Punctuation
+EXPLANATION: Use a question mark at the end of a direct question.
+QUESTION: Which mark ends a question?
+ANSWER: A question mark.

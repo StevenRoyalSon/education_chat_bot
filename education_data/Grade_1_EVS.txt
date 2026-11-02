@@ -1,0 +1,19 @@
+GRADE: 1
+SUBJECT: EVS
+SOURCE: Original illustrative learning content for RAG practice
+NOTE: Not an official curriculum or textbook
+
+LESSON 1: Our Senses
+EXPLANATION: We see with eyes, hear with ears, smell with a nose and taste with a tongue.
+QUESTION: What helps us hear?
+ANSWER: Ears.
+
+LESSON 2: Healthy Habits
+EXPLANATION: Wash hands with soap before eating and after using the toilet. Drink safe water.
+QUESTION: When should you wash hands?
+ANSWER: Before eating and after using the toilet.
+
+LESSON 3: Plants
+EXPLANATION: Plants need water, air and light. Roots absorb water from soil.
+QUESTION: What absorbs water?
+ANSWER: Roots.
